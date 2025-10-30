@@ -28,6 +28,5 @@ $lingkaran->jari = 12;
 $lingkaran = new LuasLingkaran(12);
 // $lingkaran->jari = 12;
 $lingkaran->tampil('roda'); //panggil method tampil
-// $rumus = LuasLingkaran::phi * ($lingkaran->jari * $lingkaran->jari);
-// echo "Hasilnya adalah: ".$rumus;
+
 LuasLingkaran::testing(); //panggil static method
